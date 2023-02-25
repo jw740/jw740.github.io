@@ -53,11 +53,11 @@ a:focus {
 
 main {
   padding: 1em;
-  border-bottom: solid black 1px;
   width: 100%;
 }
 
 main article {
   width: 100%;
   border-top: solid black 1px;
+  border-bottom: solid black 1px;
 }
